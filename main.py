@@ -1,4 +1,4 @@
-import telebot
+import telebot # что делает этот модуль?
 from telebot import types
 token = '6947899996:AAFkySXMwxz4HtCEyYG8VP1oTTRukmoIl6Q'
 bot = telebot.TeleBot(token)
