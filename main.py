@@ -1,6 +1,6 @@
 import telebot
 from telebot import types
-token = '6947899996:AAFkySXMwxz4HtCEyYG8VP1oTTRukmoIl6Q'
+token = ''
 bot = telebot.TeleBot(token)
 'Команды '
 @bot.message_handler(commands=['start'])    # строка, которая позволяет принимать команду "старт" от пользователя.
